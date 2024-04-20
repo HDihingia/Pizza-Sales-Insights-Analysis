@@ -6,3 +6,6 @@ Dashboard Snapshots -
 
 ![Best Sellers](https://github.com/HDihingia/Pizza-Sales-Insights-Analysis/assets/131677456/0607baca-82c5-4e89-a11f-a44beb19343a)
 
+
+Data Source Used: Kaggle (https://www.kaggle.com/datasets/nextmillionaire/pizza-sales-dataset)
+
